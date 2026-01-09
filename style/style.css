@@ -246,6 +246,27 @@ nav ul li a{
 .the-solution{
     justify-content: center;
 }
-.second-brain{
-    di
+
+.Clearly-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 40px;
+
+
+}
+.Clearly-container h1{
+    font-size: 40px;
+    font-weight: 700;
+    /* padding-bottom: 16px; */
+
+}
+.Clearly-container p{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 24px;
+    padding-top: 16px;
+
 }
