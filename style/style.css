@@ -131,3 +131,75 @@ nav ul li a{
 .blue-color{
     color: #30B868;
 }
+
+.info-container div{
+    text-align: center;
+}
+.info-card li img{
+    width: 32px;
+    height: 32px;
+    padding: 25px 25px;
+    margin: 16px;
+
+}
+.circle-bg{
+        background-color:rgba(249, 85, 85, 1);
+        border-radius: 50px;
+      
+}
+.info-card{
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    padding: 24px;
+    
+      /* box-shadow: 5px 5px 5px red;
+      margin-bottom: 500px;
+      height: 300px; */
+}
+
+.info-card h3{
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 16px;
+    /* height: 29px; */
+    width: 274px;
+    
+}
+.info-card p{
+    font-size: 16px;
+    font-weight: 400;
+    width: 274px;
+    height: 40px;
+
+}
+.info-card li{
+    /* background-color: #30B868; */
+    list-style: none;
+    box-shadow: 1px 1px 1px 1px rgb(218, 208, 208);
+    padding: 24px;
+    padding-bottom: 70px;
+    /* margin-bottom: 69.5px; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    
+}
+.info-card ul li{
+    justify-content: center;
+}
+.info-container h1{
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 16px;
+
+}
+.info-container p{
+    font-size: 16px;
+    font-weight: 400;
+   
+  
+}
+.info-container{
+ margin-left: 120px;
+ margin-right: 120px;
+}
