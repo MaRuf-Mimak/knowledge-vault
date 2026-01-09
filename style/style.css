@@ -203,3 +203,49 @@ nav ul li a{
  margin-left: 120px;
  margin-right: 120px;
 }
+.second-brain{
+    padding: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.knowledge-img img{
+    width: 600px;
+    height: 600px;
+}
+.the-solution h6{
+    font-size: 16px;
+    font-weight: 500;
+    text-align: left;
+    
+
+}
+.the-solution h1{
+    font-size: 48px;
+    font-weight: 700;
+    text-align: left;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.the-solution p{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    padding-bottom: 16px;
+
+}
+.the-solution ul li {
+    list-style: none;
+    align-items: center;
+    padding-bottom: 16px;
+}
+.the-solution ul li img{
+    vertical-align: middle;
+   
+}
+.the-solution{
+    justify-content: center;
+}
+.second-brain{
+    di
+}
