@@ -51,6 +51,12 @@ nav ul li a{
     text-decoration: none;
     font-size: 16px;
     font-weight: 500;
+
+}
+nav ul li a:hover{
+    background-color: #469165;
+    padding: 2px;
+    border-radius: 2px;
 }
 
 .banner{
@@ -243,6 +249,9 @@ nav ul li a{
     vertical-align: middle;
    
 }
+.btn-2{
+    vertical-align: middle;
+}
 .the-solution{
     justify-content: center;
 }
@@ -268,5 +277,61 @@ nav ul li a{
     font-weight: 400;
     padding-bottom: 24px;
     padding-top: 16px;
+
+}
+
+footer{
+    background-color: rgba(0, 25, 49, 1) ;
+    
+}
+.footer-felx{
+    display: flex;
+    justify-content: space-between;
+    padding: 120px 120px 120px 120px;
+    position: relative;
+    
+}
+footer p{
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.flex-row{
+    flex-direction: row;
+    justify-content: center;
+    background-color: white;
+    border: 200px;
+    border-radius: 50px;
+    align-items: center;
+    
+    
+}
+.social-media{
+    display: flex;
+    gap: 16px;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.social-media ul li a{
+    cursor: pointer;
+    
+}
+
+.footer-felx p{
+    text-align: right;
+    justify-content: right;
+    align-items:end;
+}
+#top-text{
+    position: absolute;
+    top: 110px;
+    right: 110px;
+    font-size: 20px;
+    font-weight: 500;
+    padding-bottom: 16px;
+
 
 }
